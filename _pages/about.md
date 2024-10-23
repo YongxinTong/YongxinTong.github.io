@@ -18,16 +18,16 @@ Yongxin Tong is a Professor in the <a href="http://www.nlsde.buaa.edu.cn/" targe
 Research Interests
 ------
 
-+ Federated computing:
++ Federated computing
   + Federated LLM
   + Federated fine-tuning
   + Federated graph learning
   + Heterogeneous federated learning
-+ Spatial-temporal big data driven intelligent computing:
++ Spatial-temporal big data driven intelligent computing
   + Spatial-temporal LLM
   + Time series forecasting
   + Trajectory mining
-+ Vector databases:
++ Vector databases
   + High-dimensional vector retrieval for LLM
   + Federated vector databases
 + Crowd intelligence
