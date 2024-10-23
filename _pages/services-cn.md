@@ -13,6 +13,7 @@ author_profile: true
   + IEEE Transactions on Big Data (TBD), 2018 - date
   + Frontiers of Computer Science (FCS), 2019 - 2022
 + **会议主席**
+  + Program Committee (PC) Co-Chair of DASFAA 2024
   + Program Committee (PC) Area Chair of VLDB 2024, 2023
   + Program Committee (PC) Area Chair of [ICDE 2023](https://icde2023.ics.uci.edu/research-program-committee/)
   + Program Committee (PC) Area Chair of SIGKDD 2023
