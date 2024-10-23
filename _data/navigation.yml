@@ -17,7 +17,7 @@ main:
   - title: "Professional Services"
     url: /services/
     
-  - title: "中文版"
+  - title: "中文简介"
     url: /cn/
 
 cn:
