@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "论著"
+title: "学术论著"
 permalink: /publications-cn/
 author_profile: true
 ---
