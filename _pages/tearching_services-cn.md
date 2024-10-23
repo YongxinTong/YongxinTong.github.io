@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "教学经历"
+title: "课程教学"
 permalink: /tearching_services-cn/
 author_profile: true
 ---
