@@ -21,13 +21,13 @@ main:
     url: /cn/
 
 cn:
-  - title: "个人介绍"
+  - title: "个人简介"
     url: /about-cn/
 
-  - title: "论著"
+  - title: "学术论著"
     url: /publications-cn/ 
 
-  - title: "教学"
+  - title: "课程教学"
     url: /tearching_services-cn/
     
   - title: "学术服务"
